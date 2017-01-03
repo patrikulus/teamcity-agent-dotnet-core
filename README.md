@@ -1,4 +1,4 @@
-# teamcity-docker-dotnet-agent
+# teamcity-agent-dotnet-core
 TeamCity .NET Core Agent Dockerfile
 
 To get this image, use command:
